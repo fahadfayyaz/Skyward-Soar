@@ -64,7 +64,7 @@ padding-left: 30px;
     height: 100%;
     width: 140px;
     padding-left:40px;
-    float: left;
+    float:left;
     display:inline-block;
     /* padding-top:50px; */
 }
@@ -118,7 +118,7 @@ h6 { font-size: 22px; }
 
 .banner {
   color: white;
-  background: url('./image/349266-4k-wallpaper.jpg');
+  background: url('./349266-4k-wallpaper.jpg');
   height: 300px;
   background-repeat: no-repeat;
   background-size: 100% 100%;
